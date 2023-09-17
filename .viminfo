@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694877255,,"wq"
+|2,0,1694956523,,"wq"
 :q!
-|2,0,1694876686,,"q!"
+|2,0,1694936052,,"q!"
+:Q
+|2,0,1694935839,,"Q"
 
 # Search String History (newest to oldest):
 
@@ -27,40 +29,319 @@
 # Registers:
 
 # File marks:
-'0  3  43  ~/hello-world-java/HelloWorld.java
-|4,48,3,43,1694877255,"~/hello-world-java/HelloWorld.java"
-'1  1  0  /var/lib/jenkins/secrets/initialAdminPassword
-|4,49,1,0,1694876686,"/var/lib/jenkins/secrets/initialAdminPassword"
-'2  3  45  /etc/environment
-|4,50,3,45,1694876282,"/etc/environment"
+'0  15  0  ~/main.tf
+|4,48,15,0,1694956523,"~/main.tf"
+'1  2  6  /opt/nexus/bin/nexus.vmoptions
+|4,49,2,6,1694938275,"/opt/nexus/bin/nexus.vmoptions"
+'2  33  10  /etc/profile
+|4,50,33,10,1694937558,"/etc/profile"
+'3  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,51,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+'4  14  25  /etc/systemd/system/nexus.service
+|4,52,14,25,1694936266,"/etc/systemd/system/nexus.service"
+'5  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,53,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+'6  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,54,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+'7  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,55,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+'8  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,56,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+'9  3  28  /etc/nexus/bin/nexus.vmoptions
+|4,57,3,28,1694935848,"/etc/nexus/bin/nexus.vmoptions"
 
 # Jumplist (newest first):
--'  3  43  ~/hello-world-java/HelloWorld.java
-|4,39,3,43,1694877255,"~/hello-world-java/HelloWorld.java"
--'  1  0  ~/hello-world-java/HelloWorld.java
-|4,39,1,0,1694877226,"~/hello-world-java/HelloWorld.java"
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
-|4,39,1,0,1694876686,"/var/lib/jenkins/secrets/initialAdminPassword"
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
-|4,39,1,0,1694876686,"/var/lib/jenkins/secrets/initialAdminPassword"
--'  3  45  /etc/environment
-|4,39,3,45,1694876282,"/etc/environment"
--'  3  45  /etc/environment
-|4,39,3,45,1694876282,"/etc/environment"
--'  3  45  /etc/environment
-|4,39,3,45,1694876282,"/etc/environment"
--'  3  45  /etc/environment
-|4,39,3,45,1694876282,"/etc/environment"
--'  1  0  /etc/environment
-|4,39,1,0,1694876257,"/etc/environment"
--'  1  0  /etc/environment
-|4,39,1,0,1694876257,"/etc/environment"
--'  1  0  /etc/environment
-|4,39,1,0,1694876257,"/etc/environment"
--'  1  0  /etc/environment
-|4,39,1,0,1694876257,"/etc/environment"
+-'  15  0  ~/main.tf
+|4,39,15,0,1694956523,"~/main.tf"
+-'  1  0  ~/main.tf
+|4,39,1,0,1694956489,"~/main.tf"
+-'  2  6  /opt/nexus/bin/nexus.vmoptions
+|4,39,2,6,1694938275,"/opt/nexus/bin/nexus.vmoptions"
+-'  2  6  /opt/nexus/bin/nexus.vmoptions
+|4,39,2,6,1694938275,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694938237,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694938237,"/opt/nexus/bin/nexus.vmoptions"
+-'  33  10  /etc/profile
+|4,39,33,10,1694937558,"/etc/profile"
+-'  33  10  /etc/profile
+|4,39,33,10,1694937558,"/etc/profile"
+-'  33  10  /etc/profile
+|4,39,33,10,1694937558,"/etc/profile"
+-'  33  10  /etc/profile
+|4,39,33,10,1694937558,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1694937545,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1694937545,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1694937545,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1694937545,"/etc/profile"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  3  23  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,3,23,1694937108,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936944,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  14  25  /etc/systemd/system/nexus.service
+|4,39,14,25,1694936266,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /etc/systemd/system/nexus.service
+|4,39,1,0,1694936246,"/etc/systemd/system/nexus.service"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  1  0  /opt/sonatype-work/nexus3/etc/nexus.properties
+|4,39,1,0,1694936052,"/opt/sonatype-work/nexus3/etc/nexus.properties"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
+-'  4  27  /opt/nexus/bin/nexus.vmoptions
+|4,39,4,27,1694935996,"/opt/nexus/bin/nexus.vmoptions"
 
 # History of marks within files (newest to oldest):
+
+> ~/main.tf
+	*	1694956520	0
+	"	15	0
+	^	15	0
+	.	14	1
+	+	14	1
+
+> /opt/nexus/bin/nexus.vmoptions
+	*	1694938272	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	7
+	+	3	7
+	+	4	26
+	+	3	6
+	+	2	6
+
+> /etc/profile
+	*	1694937557	0
+	"	33	10
+	^	33	11
+	.	33	10
+	+	33	10
+
+> /opt/sonatype-work/nexus3/etc/nexus.properties
+	*	1694937107	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	3	23
+
+> /etc/systemd/system/nexus.service
+	*	1694936263	0
+	"	14	25
+	^	14	26
+	.	14	25
+	+	14	25
+
+> /etc/nexus/bin/nexus.vmoptions
+	*	1694935842	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	3	28
+
+> /opt/nexus/bin/nexus.rc
+	*	1694935634	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> /home/ubuntu/test_java/Jenkinsfile
+	*	1694932971	0
+	"	5	3
+	^	5	4
+	.	5	4
+	+	4	3
+	+	5	4
+
+> ~/java-app/java-hello-world-with-maven/pom.xml
+	*	1694931831	0
+	"	51	0
+
+> ~/java-app/java-hello-world-with-maven/dependency-reduced-pom.xml
+	*	1694931796	0
+	"	1	0
+
+> /etc/environment
+	*	1694931438	0
+	"	6	10
+	^	6	11
+	.	6	10
+	+	3	46
+	+	6	10
+
+> /var/lib/jenkins/config.xml
+	*	1694929789	0
+	"	7	18
+	^	7	19
+	.	7	19
+	+	7	19
+
+> /var/lib/jenkins/users/devopsuser_2562895340578573850/config.xml
+	*	1694929734	0
+	"	1	0
+	^	1	0
 
 > ~/hello-world-java/HelloWorld.java
 	*	1694877252	0
@@ -72,10 +353,3 @@
 > /var/lib/jenkins/secrets/initialAdminPassword
 	*	1694876684	0
 	"	1	0
-
-> /etc/environment
-	*	1694876281	0
-	"	3	45
-	^	3	46
-	.	3	45
-	+	3	45

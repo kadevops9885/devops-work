@@ -97,3 +97,5 @@ fi
 #if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 #    . /etc/bash_completion
 #fi
+export INSTALL4J_JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
